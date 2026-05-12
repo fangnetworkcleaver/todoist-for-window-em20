@@ -1,4 +1,4 @@
-# 
+# Enhance Todoist for Windows with Todoist for Windows premium Addon: calendar-view & gantt-charts, the #1 addon. Includes calendar-view and gantt-charts for a smoother and more
 
 
 
